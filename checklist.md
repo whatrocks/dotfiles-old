@@ -14,6 +14,14 @@
 - [ ] chrome
 - [ ] artpip.com
 - [ ] alfred 2
+- [ ] bear
+- [ ] firefox
+- [ ] gimp
+- [ ] inkscape
+- [ ] keybase
+- [ ] ngrok
+- [ ] wunderlist
+- [ ] nvm
 
 ## brew
 - [ ] exercism
@@ -28,3 +36,5 @@
 ## OS settings
 - [ ] reverse scrolling
 - [ ] left align dock
+- [ ] set up the keyboard
+- [ ] change escape key to caps lock

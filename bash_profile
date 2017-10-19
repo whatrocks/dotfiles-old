@@ -1,5 +1,5 @@
 # PROFILE
-alias prof="atom ~/.bash_profile"
+alias prof="vim ~/.bash_profile"
 alias r=". ~/.bash_profile"
 
 # ALIASES

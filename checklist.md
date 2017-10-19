@@ -2,25 +2,23 @@
 - [ ] sizeup (license)
 - [ ] slack
 - [ ] docker
-- [ ] alfred
+- [ ] alfred2
 - [ ] dropbox
-- [ ] iterm2
 - [ ] 1password
 - [ ] sublime text (license)
 - [ ] vs code
-- [ ] macvim
 - [ ] emacs
 - [ ] x code (dev tools extension)
 - [ ] chrome
 - [ ] artpip.com
-- [ ] alfred 2
-- [ ] bear
 - [ ] firefox
 - [ ] gimp
 - [ ] inkscape
 - [ ] keybase
-- [ ] ngrok
 - [ ] wunderlist
+
+## command line
+- [ ] ngrok
 - [ ] nvm
 
 ## brew

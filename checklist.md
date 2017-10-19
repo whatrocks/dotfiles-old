@@ -36,3 +36,4 @@
 - [ ] left align dock
 - [ ] set up the keyboard
 - [ ] change escape key to caps lock
+- [ ] increase key repeating rate

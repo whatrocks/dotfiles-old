@@ -27,6 +27,7 @@
 
 ## brew
 - [ ] exercism
+- [ ] node
 - [ ] ffmpeg
 - [ ] gifsicle
 - [ ] postgresql

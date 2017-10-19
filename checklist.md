@@ -11,6 +11,9 @@
 - [ ] x code (dev tools extension)
 - [ ] chrome
 - [ ] artpip.com
+- [ ] cloudapp
+- [ ] ulyssess
+- [ ] steam
 - [ ] firefox
 - [ ] gimp
 - [ ] inkscape

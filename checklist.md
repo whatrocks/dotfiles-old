@@ -29,7 +29,6 @@
 - [ ] postgresql
 - [ ] tmux
 - [ ] tree
-- [ ] yarn
 - [ ] youtube-dl
 
 ## OS settings

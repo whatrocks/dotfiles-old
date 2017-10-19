@@ -18,6 +18,7 @@
 - [ ] wunderlist
 
 ## command line
+- [ ] brew
 - [ ] ngrok
 - [ ] nvm
 

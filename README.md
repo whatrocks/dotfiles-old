@@ -10,6 +10,7 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 * sizeup (license)
 * slack
 * docker
+* anki
 * alfred2 (license)
 * dropbox
 * 1password

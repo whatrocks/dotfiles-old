@@ -5,28 +5,28 @@
 ```sh
 $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
-## Applications
+## Dev Applications
 
 * sizeup (license)
 * slack
 * docker
-* anki
 * alfred2 (license)
-* dropbox
 * 1password
 * sublime text (license)
 * vs code
 * x code (dev tools extension)
 * chrome
-* cloudapp
-* ulyssess
-* steam
 * firefox
 * gimp
 * sketch
-* keybase
-* wunderlist
 
+## Other
+* keybase
+* anki
+* wunderlist
+* steam
+* ulysses
+* dropbox
 
 ## command line
 * brew

@@ -57,6 +57,7 @@ nnoremap <C-H> <C-W><C-H>
 augroup ProjectDrawer
   autocmd!
   autocmd VimEnter * :Vexplore
+  autocmd VimEnter * wincmd p
 augroup END
 
 

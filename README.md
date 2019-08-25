@@ -5,22 +5,17 @@
 ```sh
 $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
-## Dev Applications
-
+## Programs
 * sizeup (license)
 * slack
 * docker
 * alfred2 (license)
 * 1password
-* sublime text (license)
 * vs code
 * x code (dev tools extension)
 * chrome
 * firefox
 * gimp
-* sketch
-
-## Other
 * keybase
 * anki
 * wunderlist
@@ -32,6 +27,7 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 * brew
 * ngrok
 * nvm
+* mosh
 
 ### homebrew
 * exercism

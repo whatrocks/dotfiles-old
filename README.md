@@ -45,3 +45,8 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 * set up the keyboard for msft sculpt
 * change escape key to caps lock
 * increase key repeating rate
+
+# other things to work on for env
+* spellcheck
+* tldr pages
+* ripgrep

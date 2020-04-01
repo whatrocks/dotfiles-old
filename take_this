@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# It's dangerous to go alone! Take this.
+
+setup_gitconfig () {
+  echo 'success gitconfig'
+}
+
+# install vim?
+# setup_gitconfig
+# install_dotfiles
+
+# install homebrew if it's a mac
+
+echo ''
+echo ' All done! Good luck :)'

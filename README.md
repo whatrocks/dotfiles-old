@@ -50,3 +50,6 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 * spellcheck
 * tldr pages
 * ripgrep
+
+git config --global core.editor "vim"
+and the other git config changes

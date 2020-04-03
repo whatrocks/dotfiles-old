@@ -9,13 +9,11 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 * sizeup (license)
 * slack
 * docker
-* alfred2 (license)
 * 1password
 * vs code
 * x code (dev tools extension)
 * chrome
 * firefox
-* gimp
 * keybase
 * anki
 * wunderlist

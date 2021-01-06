@@ -2,10 +2,6 @@
 alias prof="vim ~/.bash_profile"
 alias r=". ~/.bash_profile"
 
-# PATH
-PATH=/usr/bin:/bin:/usr/sbin:/sbin
-export PATH
-
 # ALIASES
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias code="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"

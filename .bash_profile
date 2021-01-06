@@ -15,9 +15,6 @@ blue="\[\033[0;36m\]"
 purple="\[\033[0;35m\]"
 reset="\[\033[0m\]"
 
-# Enable tab completion
-source ~/git-completion.bash
-
 # Change command prompt
 source ~/git-prompt.sh
 export GIT_PS1_SHOWDIRTYSTATE=1

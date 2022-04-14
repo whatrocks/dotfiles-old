@@ -1,26 +1,18 @@
-apk update && apk upgrade
-
-# c setup - reference (https://jsmp.me/2020/05/05/c-development-on-ios)
-# docs
+apk update
+apk upgrade
 apk add man \
     man-pages \
     less \
     less-doc
-
-# editor
-apk add vim \
+    vim \
     highlight \
     highlight-doc
-
-# compile
-apk add build-base \
+    build-base \
     clang \
     clang-doc \
     nasm \
     nasm-doc
-
-# file transfer + vcs
-apk add curl \
+    curl \
     curl-dev \
     curl-doc \
     openssh \
@@ -29,14 +21,10 @@ apk add curl \
     openssh-server \
     openssh-keygen \
     git \
-    git-doc
+    git-doc \
+    bash
 
-# bash
-apk install bash
 # to make bash default, open /etc/passwd with vim
 # and change root:x:0:0:root:/root:/bin/ash
 # into root:x:0:0:root:/root:/bin/bash
 # then create ~/.bash_rc file for preferences
-
-
-

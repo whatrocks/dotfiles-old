@@ -19,12 +19,15 @@ apk add build-base \
     nasm \
     nasm-doc
 
-# file transfer
+# file transfer + vcs
 apk add curl \
     curl-dev \
     curl-doc \
     openssh \
     openssh-doc \
+    openssh-client \
+    openssh-server \
+    openssh-keygen \
     git \
     git-doc
 
@@ -33,4 +36,7 @@ apk install bash
 # to make bash default, open /etc/passwd with vim
 # and change root:x:0:0:root:/root:/bin/ash
 # into root:x:0:0:root:/root:/bin/bash
-# then create ~/.bash_rc with your preferences
+# then create ~/.bash_rc file for preferences
+
+
+

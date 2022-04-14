@@ -16,7 +16,6 @@ apk add man \
     openssh \
     openssh-doc \
     openssh-client \
-    openssh-server \
     openssh-keygen \
     git \
     git-doc \

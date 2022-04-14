@@ -10,8 +10,6 @@ apk add man \
     build-base \
     clang \
     clang-doc \
-    nasm \
-    nasm-doc
     curl \
     curl-dev \
     curl-doc \

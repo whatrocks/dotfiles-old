@@ -6,7 +6,6 @@
 $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 ## Programs
-* sizeup (license)
 * slack
 * docker
 * 1password

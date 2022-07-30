@@ -11,28 +11,21 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 * docker
 * 1password
 * vs code
-* x code (dev tools extension)
+* xcode (dev tools extension)
 * chrome
-* firefox
-* keybase
 * anki
-* wunderlist
 * steam
 * ulysses
 * dropbox
 
 ## command line
 * brew
-* ngrok
-* nvm
 * mosh
 
 ### homebrew
 * exercism
-* node
 * ffmpeg
 * gifsicle
-* postgresql
 * tmux
 * tree
 * youtube-dl
